@@ -21,7 +21,7 @@ let blue_trial = {
 // 橙色圆
 let orange_trial = {
     type: jsPsychHtmlKeyboardResponse,
-    stimulus: `<img src="orange.png">`,
+    stimulus: `<img src="blue.png">`,
     choices: ['f','j'],
     post_trial_gap: 500
 }
